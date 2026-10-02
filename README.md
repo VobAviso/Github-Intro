@@ -1,1 +1,2 @@
-A repository for Machine Problem 2 in elective 4
+A repository for Machine Problem 2 in elective 4 collab with Lars Pons
+
